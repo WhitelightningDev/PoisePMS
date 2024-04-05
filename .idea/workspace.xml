@@ -4,78 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dc6cc5a1-f661-4fec-a574-8c34db8bd2bd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/mysql_connector_j_8_3_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DatabaseConnector.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DatabaseManager.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IncompleteProjectFinder.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Main.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PastDueDateProjectFinder.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PoisePMS.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PoisedDatabaseCreator.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProjectCreator.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProjectDeleter.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProjectFinalizer.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProjectFinder.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProjectUpdater.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allclasses-index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allpackages-index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/copy.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/element-list" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/help-doc.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index-files/index-1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index-files/index-2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index-files/index-3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index-files/index-4.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index-files/index-5.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index-files/index-6.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index-files/index-7.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index-files/index-8.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index-files/index-9.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/legal/ADDITIONAL_LICENSE_INFO" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/legal/ASSEMBLY_EXCEPTION" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/legal/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/legal/jquery.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/legal/jqueryUI.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/member-search-index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module-search-index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/overview-tree.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package-search-index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package-summary.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package-tree.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/glass.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/script-dir/jquery-3.6.1.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/script-dir/jquery-ui.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/script-dir/jquery-ui.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/search-page.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/search.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/search.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DatabaseConnector.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DatabaseManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/IncompleteProjectFinder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PastDueDateProjectFinder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PoisedDatabaseCreator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ProjectCreator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ProjectDeleter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ProjectFinalizer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ProjectFinder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ProjectUpdater.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stylesheet.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tag-search-index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/type-search-index.js" afterDir="false" />
-    </list>
+    <list default="true" id="dc6cc5a1-f661-4fec-a574-8c34db8bd2bd" name="Changes" comment="Commiting the PoisePMS project" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -91,8 +20,19 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "WhitelightningDev"
+  }
+}]]></component>
   <component name="GitLabMergeRequestsSettings">{}</component>
-  <component name="GithubPullRequestsUISettings">{}</component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/WhitelightningDev/PoisePMS",
+    "accountId": "ea302bb1-2368-4b23-94b6-19310cbe327c"
+  }
+}]]></component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="2" />
   </component>
@@ -129,6 +69,15 @@
       <option name="presentableId" value="Default" />
       <updated>1711621775598</updated>
     </task>
+    <task id="LOCAL-00001" summary="Commiting the PoisePMS project">
+      <option name="closed" value="true" />
+      <created>1712307846865</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1712307846865</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -144,5 +93,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Commiting the PoisePMS project" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commiting the PoisePMS project" />
   </component>
 </project>
