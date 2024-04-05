@@ -70,3 +70,6 @@ This project is licensed under the [MIT License](LICENSE). By cloning or using t
 ## Authors
 
 - [Daniel Mommsen](https://github.com/WhitelightningDev) - Lead Developer
+- [Contact](#+27746588885)
+- [Email](#whitelightningdev@gmail.com)
+- [Android Dev Profile](#https://developers.google.com/profile/u/116571349643980913187/dashboard)
