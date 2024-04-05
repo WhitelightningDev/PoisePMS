@@ -1,6 +1,6 @@
 # Poise Project Management System (PoisePMS)
 
-The Poise Project Management System (PoisePMS) is a Java-based application designed to streamline project management tasks, particularly for construction projects. The system offers a range of features to help users create, update, finalize, and delete projects, as well as manage associated entities such as architects, contractors, and customers.
+The Poise Project Management System (PoisePMS) is a Java-based application designed to streamline project management tasks, particularly for construction projects. The system offers a range of features to help users create, update, finalize, and delete projects, as well as manage associated entities such as architects, contractors, and customers.This project was created as part of my time at #HyperionDev This is project number #4
 
 ## Table of Contents
 
@@ -32,7 +32,7 @@ The Poise Project Management System (PoisePMS) is a Java-based application desig
 
 ### Installation
 
-1. Clone the repository to your local machine using the following command:git clone (https://github.com/yourusername/PoisePMS.git)
+1. Clone the repository to your local machine using the following command:git clone (https://github.com/WhitelightningDev/PoisePMS.git)
 
 2. Set up your MySQL database and configure the connection details in the `DatabaseConnector` class.
 
