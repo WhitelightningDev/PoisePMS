@@ -59,7 +59,7 @@ Contributions to the Poise Project Management System are welcome! To contribute,
 
 ## License
 
-This project is licensed under the [MIT License]([LICENSE](https://en.wikipedia.org/wiki/MIT_License)). By cloning or using this project, you agree to comply with the terms and conditions of the MIT License. You are free to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the software, subject to the following conditions:
+This project is licensed under the [MIT License](https://en.wikipedia.org/wiki/MIT_License). By cloning or using this project, you agree to comply with the terms and conditions of the MIT License. You are free to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the software, subject to the following conditions:
 
 1. You must include a copy of the MIT License along with any copies or substantial portions of the software.
 
