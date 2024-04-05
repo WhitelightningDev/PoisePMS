@@ -1,6 +1,6 @@
 # Poise Project Management System (PoisePMS)
 
-The Poise Project Management System (PoisePMS) is a Java-based application designed to streamline project management tasks, particularly for construction projects. The system offers a range of features to help users create, update, finalize, and delete projects, as well as manage associated entities such as architects, contractors, and customers.This project was created as part of my time at #HyperionDev This is project number #4
+The Poise Project Management System (PoisePMS) is a Java-based application designed to streamline project management tasks, particularly for construction projects. The system offers a range of features to help users create, update, finalize, and delete projects, as well as manage associated entities such as architects, contractors, and customers.This project was created as part of my time at [HyperionDev](#HyperionDev) This is project number #4
 
 ## Table of Contents
 
@@ -17,7 +17,7 @@ The Poise Project Management System (PoisePMS) is a Java-based application desig
 
 ## Features
 
-1. **Project Creation**: Users can input project details such as project name, building type, physical address, ERF number, total fee, total paid to date, and deadline.
+1. **Project Creation**: First the database checks to see if it already sxistsif not then it will create the database and its tabbles.Users can input project details such as project name, building type, physical address, ERF number, total fee, total paid to date, and deadline.
 2. **Project Update**: Existing project details can be updated, including project name, building type, physical address, ERF number, total fee, total paid to date, and deadline.
 3. **Project Finalization**: Upon completion, projects can be finalized, marking them as "Finalized" in the database.
 4. **Project Deletion**: Users have the option to delete projects, along with associated architects, contractors, and customers.
@@ -45,7 +45,7 @@ The Poise Project Management System (PoisePMS) is a Java-based application desig
 ## Dependencies
 
 - Java Development Kit (JDK) 8 or higher
-- MySQL Connector/J (for database connectivity)
+- MySQL Connector/J (for database connectivity) can be downloaded of the internet (https://www.oracle.com/za/database/technologies/appdev/jdbc-downloads.html)
 
 ## Contributing
 
