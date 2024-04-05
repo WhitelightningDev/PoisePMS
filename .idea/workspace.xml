@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="dc6cc5a1-f661-4fec-a574-8c34db8bd2bd" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/mysql_connector_j_8_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DatabaseConnector.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DatabaseManager.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IncompleteProjectFinder.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Main.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PastDueDateProjectFinder.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PoisePMS.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PoisedDatabaseCreator.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectCreator.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectDeleter.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectFinalizer.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectFinder.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectUpdater.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allclasses-index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allpackages-index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/copy.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/element-list" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/help-doc.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index-files/index-1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index-files/index-2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index-files/index-3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index-files/index-4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index-files/index-5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index-files/index-6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index-files/index-7.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index-files/index-8.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index-files/index-9.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/legal/ADDITIONAL_LICENSE_INFO" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/legal/ASSEMBLY_EXCEPTION" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/legal/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/legal/jquery.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/legal/jqueryUI.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/member-search-index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module-search-index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/overview-tree.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package-search-index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package-summary.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package-tree.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/glass.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/script-dir/jquery-3.6.1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/script-dir/jquery-ui.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/script-dir/jquery-ui.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/search-page.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/search.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/search.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DatabaseConnector.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DatabaseManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IncompleteProjectFinder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PastDueDateProjectFinder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PoisedDatabaseCreator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ProjectCreator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ProjectDeleter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ProjectFinalizer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ProjectFinder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ProjectUpdater.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stylesheet.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tag-search-index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/type-search-index.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitLabMergeRequestsSettings">{}</component>
+  <component name="GithubPullRequestsUISettings">{}</component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2eJTeSKxlxfHfcTKhQ3UCf2oSBz" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Libraries&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dc6cc5a1-f661-4fec-a574-8c34db8bd2bd" name="Changes" comment="" />
+      <created>1711621775598</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1711621775598</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
